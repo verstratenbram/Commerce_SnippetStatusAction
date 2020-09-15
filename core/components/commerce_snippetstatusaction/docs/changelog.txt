@@ -1,4 +1,10 @@
-++ SnippetStatusAction for Commerce 1.0.0-pl
-++ Released on 2020-04-16
-++++++++++++++++++++++++++
+SnippetStatusAction for Commerce 1.0.1-pl
+-----------------------------------------
+Released on 2020-09-15
+
+- Optimize autoloader to avoid class loading issue
+
+SnippetStatusAction for Commerce 1.0.0-pl
+-----------------------------------------
+Released on 2020-04-16
 - First release
